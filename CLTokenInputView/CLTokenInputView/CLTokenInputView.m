@@ -17,7 +17,7 @@ static CGFloat const VSPACE = 4.0;
 static CGFloat const MINIMUM_TEXTFIELD_WIDTH = 56.0;
 static CGFloat const PADDING_TOP = 10.0;
 static CGFloat const PADDING_BOTTOM = 10.0;
-static CGFloat const PADDING_LEFT = 8.0;
+static CGFloat const PADDING_LEFT = 12.0;
 static CGFloat const PADDING_RIGHT = 16.0;
 static CGFloat const STANDARD_ROW_HEIGHT = 25.0;
 
